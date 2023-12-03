@@ -1,0 +1,8 @@
+C:\Users\edwin\source\repos\Prueba\obj\Debug\Prueba.csproj.AssemblyReference.cache
+C:\Users\edwin\source\repos\Prueba\obj\Debug\Prueba.csproj.SuggestedBindingRedirects.cache
+C:\Users\edwin\source\repos\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\edwin\source\repos\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\edwin\source\repos\Prueba\bin\Debug\Prueba.exe
+C:\Users\edwin\source\repos\Prueba\bin\Debug\Prueba.pdb
+C:\Users\edwin\source\repos\Prueba\obj\Debug\Prueba.exe
+C:\Users\edwin\source\repos\Prueba\obj\Debug\Prueba.pdb
